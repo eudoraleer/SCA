@@ -1,2 +1,2 @@
-# SCA
-Code Repositories for SCA
+# Code Repository for manuscript entitled:
+Single Cell Atlas: a single-cell multi-omics human cell encyclopedia
